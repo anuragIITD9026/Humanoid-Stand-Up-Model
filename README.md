@@ -1,6 +1,6 @@
 
 
-# SAC Mujoco HumanoidStandup-v4
+# Mujoco HumanoidStandup-v4
 
 
 
